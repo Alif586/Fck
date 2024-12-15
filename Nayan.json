@@ -1,0 +1,33 @@
+{
+  "author": "Nayan",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "en",
+  "notification": false,
+  "approval": false,
+  "saveState": true,
+  "banMsg": false,
+  "adminOnlyMsg": false,
+  "BOTNAME": "AͯLͯIͯFͯ-ͯBͯOͯTͯ.ͯ.ͯ.ͯ.ͯ😋😚",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "100075421394195",
+    "100084558875047",
+    "61559299321059",
+    "100013526800860"
+  ],
+  "ADMINBOT": [
+    "100075421394195",
+    "100084558875047",
+    "61559299321059",
+    "100013526800860"
+  ],
+  "OWNER": ["100000959749712"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+}
